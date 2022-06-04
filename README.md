@@ -50,7 +50,14 @@ qscan.nse: Повторно исследует открытые и/или зак
 ![2022-05-06 (27)](https://user-images.githubusercontent.com/56391887/171975418-3c86f6bb-4fee-4376-86ec-4ff2763b0d89.png)
 ![2022-05-06 (31)](https://user-images.githubusercontent.com/56391887/171975428-4fe69452-00de-4a96-8aa7-3416dfcfe673.png)
 ![2022-05-06 (33)](https://user-images.githubusercontent.com/56391887/171975435-3494cb52-7d8f-4461-b156-b495b8225ac5.png)
-![2022-05-06 (63)](https://user-images.githubusercontent.com/56391887/171975519-fce8024b-6e2d-4ffe-bca1-b767f968a9bc.png)
+![2022-05-06 (63)](https://user-images.githubusercontent.com/56391887/171975519-fce8024b-6e2d-4ffe-bca1-b767f968a9bc.png)  
+
+# 1.3 NESSUS  
+![image](https://user-images.githubusercontent.com/62139377/171993935-349f6c1b-0e93-437d-8112-83b43324298a.png)
+![image](https://user-images.githubusercontent.com/62139377/171993947-c886e1d8-2c7d-4ae9-9a9c-25d51073d630.png)
+![image](https://user-images.githubusercontent.com/62139377/171993958-9fcdcc95-c0fa-43e9-888e-586b909ca6e1.png)
+![image](https://user-images.githubusercontent.com/62139377/171993968-9d41b980-2933-4247-896b-8bb29d511a4d.png)
+
 # 2.1 NMAP  
 nmap -sS -A -sC -sV -vv  
 
@@ -75,6 +82,12 @@ nmap —script=qscan.nse
 ![2022-05-14 (17)](https://user-images.githubusercontent.com/56391887/171976284-2ab8e78e-b604-43e5-9261-9fe93ac36f3b.png)
 ![2022-05-14 (18)](https://user-images.githubusercontent.com/56391887/171976310-8a842b92-029f-4671-a177-c81dd165c3fa.png)
 ![2022-05-14 (19)](https://user-images.githubusercontent.com/56391887/171976327-cece835a-1897-41c6-8276-5f326271224c.png)
+
+# 2.3 NESSUS
+![image](https://user-images.githubusercontent.com/62139377/171993878-de4de894-ec94-43a9-98ba-cef9a2308e5c.png)
+![image](https://user-images.githubusercontent.com/62139377/171993889-62116a90-bddc-4717-b705-abc98df7de96.png)
+![image](https://user-images.githubusercontent.com/62139377/171993895-db22408f-4c57-4ed6-a8f2-e44fdd24469e.png)
+![image](https://user-images.githubusercontent.com/62139377/171993905-14ac046c-90f9-4e3f-8634-ec021ac6842a.png)
 
 
 
