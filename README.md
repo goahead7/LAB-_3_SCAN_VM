@@ -52,17 +52,22 @@ qscan.nse: Повторно исследует открытые и/или зак
 ![2022-05-06 (33)](https://user-images.githubusercontent.com/56391887/171975435-3494cb52-7d8f-4461-b156-b495b8225ac5.png)
 ![2022-05-06 (63)](https://user-images.githubusercontent.com/56391887/171975519-fce8024b-6e2d-4ffe-bca1-b767f968a9bc.png)
 # 2.1 NMAP  
-nmap -sS -A -sC -sV -vv
+nmap -sS -A -sC -sV -vv  
+
 ![image](https://user-images.githubusercontent.com/62139377/171991643-9a59a983-3d2d-4b99-aa00-13b8fc90ef99.png)
 ![image](https://user-images.githubusercontent.com/62139377/171991657-4c51487e-36e8-41dc-a777-caed84e446fe.png)
 ![image](https://user-images.githubusercontent.com/62139377/171991662-0695252b-73b3-449d-8815-6702d9faecef.png)  
-nmap -sN -sU -F -sV -vv
+nmap -sN -sU -F -sV -vv  
+
 ![image](https://user-images.githubusercontent.com/62139377/171991688-24efd5c8-55ec-4392-8349-670366476097.png)  
-nmap -Pn -Pe -sS -O
+nmap -Pn -Pe -sS -O  
+
 ![image](https://user-images.githubusercontent.com/62139377/171991699-beacc2fc-e6bb-4800-b173-e15656b6d6fc.png)  
-nmap -sV —script=vulners.nse
+nmap -sV —script=vulners.nse  
+
 ![image](https://user-images.githubusercontent.com/62139377/171991707-4cc436dd-700f-4576-b72a-95ef35f702cc.png)  
-nmap —script=qscan.nse
+nmap —script=qscan.nse  
+
 ![image](https://user-images.githubusercontent.com/62139377/171991713-ce693916-7bd0-47c4-8bb0-93e07bcf154b.png)
 # 2.2 SNIPER
 ![2022-05-14 (15)](https://user-images.githubusercontent.com/56391887/171976260-a08ff2b9-ea1e-4e45-bae8-e0c1226b3762.png)
