@@ -6,5 +6,4 @@
 <img width="1387" alt="Снимок экрана 2022-06-04 в 11 33 04" src="https://user-images.githubusercontent.com/63841835/171971445-59e08439-7c21-4cdb-8dea-f866e3c0bbdb.png">
 192.168.56.118
 # 3. Metasplotable3
-
 # 1.1 NMAP
