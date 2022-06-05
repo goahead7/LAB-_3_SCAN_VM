@@ -105,13 +105,11 @@ nmap —script=qscan.nse
 -
 
 # 3.1 NMAP. 
-Проверяет, уязвим ли веб-сервер для обхода каталога, пытаясь получить /etc/passwd или \boot.ini.
+
 <img width="533" alt="Снимок экрана 2022-06-05 в 12 30 16" src="https://user-images.githubusercontent.com/63841835/172032414-3f47e4e8-ac4c-4d4b-90dc-e3e5d297ef65.png">
 <img width="508" alt="Снимок экрана 2022-06-05 в 12 30 54" src="https://user-images.githubusercontent.com/63841835/172032432-100cb8fa-aa77-42f8-8f63-1abc6c379248.png">
-Winnti-nmap-script https://github.com/TKCERT/winnti-nmap-script С Github для сканирования на winnti-инфекции
 <img width="500" alt="Снимок экрана 2022-06-05 в 12 31 41" src="https://user-images.githubusercontent.com/63841835/172032451-e7cfe803-5b82-43f3-8d81-fb7ad63e9bdd.png">
 <img width="602" alt="Снимок экрана 2022-06-05 в 12 35 15" src="https://user-images.githubusercontent.com/63841835/172032528-d326d0f3-838d-4821-bbae-be077be28887.png">
-Vuln
 <img width="653" alt="Снимок экрана 2022-06-05 в 12 39 45" src="https://user-images.githubusercontent.com/63841835/172032671-5253739b-d420-4584-a004-f61f18db1681.png">
 
 # 3.2 SN1PER
