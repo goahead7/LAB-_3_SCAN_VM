@@ -7,6 +7,7 @@
 192.168.56.118
 
 # 3. Metasplotable3
+192.168.0.108
 
 # 1.1 NMAP
 nmap -sS -A -sC -sV -vv  
@@ -44,7 +45,7 @@ qscan.nse: Повторно исследует открытые и/или зак
 
 ![image](https://user-images.githubusercontent.com/62139377/171991633-0441863a-dc53-4508-a11e-117eb912281e.png)
 
-# 1.2 SNIPER
+# 1.2 SN1PER
 ![2022-05-06 (25)](https://user-images.githubusercontent.com/56391887/171975335-f7d5dd43-a385-4c3e-85c2-ce399b25489b.png)
 ![2022-05-06 (26)](https://user-images.githubusercontent.com/56391887/171975353-3be1d9a5-1215-4e9f-b3a7-c89565f0b826.png)
 ![2022-05-06 (27)](https://user-images.githubusercontent.com/56391887/171975418-3c86f6bb-4fee-4376-86ec-4ff2763b0d89.png)
@@ -58,10 +59,14 @@ qscan.nse: Повторно исследует открытые и/или зак
 ![image](https://user-images.githubusercontent.com/62139377/172029960-773a4422-71a2-4b2b-ae8c-c601f3f5b7be.png)
 ![image](https://user-images.githubusercontent.com/62139377/172029962-f77535cd-34f9-4a54-9bbf-311acaf2306b.png)  
 
-# 1.4 OpenVas 
+# 1.4 OPENVAS 
 <img width="916" alt="Снимок экрана 2022-06-05 в 10 39 21" src="https://user-images.githubusercontent.com/63841835/172030139-d4728b89-ec51-47d0-834a-89356f33725b.png">
 
-# 1.5 Nexpose
+# 1.5 NEXPOSE
+<img width="1048" alt="Снимок экрана 2022-06-05 в 11 36 46" src="https://user-images.githubusercontent.com/63841835/172031207-31807c77-9200-41e2-b39a-068386bc861e.png">
+<img width="985" alt="Снимок экрана 2022-06-05 в 11 38 49" src="https://user-images.githubusercontent.com/63841835/172031250-3bd7e7fc-ee26-4edc-a8ce-d0b36df5d676.png">
+<img width="1020" alt="Снимок экрана 2022-06-05 в 11 39 29" src="https://user-images.githubusercontent.com/63841835/172031262-055e609f-d5aa-4287-856d-4176ab0b1153.png">
+
 
 # 2.1 NMAP  
 nmap -sS -A -sC -sV -vv  
@@ -93,6 +98,21 @@ nmap —script=qscan.nse
 ![image](https://user-images.githubusercontent.com/62139377/172030001-b875b805-7fb1-4e50-bb4c-b989c3fee862.png)
 ![image](https://user-images.githubusercontent.com/62139377/172030010-c4f82c3b-a711-4e78-bdb8-840bf61a93b0.png)
 ![image](https://user-images.githubusercontent.com/62139377/172030026-2e896b7b-7936-48c7-b911-8ffdb8a602f6.png)  
+
+# 2.4 OPENVAS 
+?
+# 2.5 NEXPOSE
+-
+
+# 3.1 NMAP
+
+# 3.2 SN1PER
+<img width="759" alt="Снимок экрана 2022-06-05 в 11 53 20" src="https://user-images.githubusercontent.com/63841835/172031557-27d12831-847a-4148-9efb-26fd18deb9d8.png">
+<img width="757" alt="Снимок экрана 2022-06-05 в 11 54 10" src="https://user-images.githubusercontent.com/63841835/172031585-99d5419f-f84c-42d7-b53e-e1d72aa100db.png">
+
+# 3.3 NESSUS
+# 3.4 OPENVAS
+# 3.5 NEXPOSE
 
 
 
