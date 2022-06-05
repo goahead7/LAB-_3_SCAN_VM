@@ -111,6 +111,7 @@ nmap —script=qscan.nse
 Winnti-nmap-script https://github.com/TKCERT/winnti-nmap-script С Github для сканирования на winnti-инфекции
 <img width="500" alt="Снимок экрана 2022-06-05 в 12 31 41" src="https://user-images.githubusercontent.com/63841835/172032451-e7cfe803-5b82-43f3-8d81-fb7ad63e9bdd.png">
 <img width="602" alt="Снимок экрана 2022-06-05 в 12 35 15" src="https://user-images.githubusercontent.com/63841835/172032528-d326d0f3-838d-4821-bbae-be077be28887.png">
+Vuln
 <img width="653" alt="Снимок экрана 2022-06-05 в 12 39 45" src="https://user-images.githubusercontent.com/63841835/172032671-5253739b-d420-4584-a004-f61f18db1681.png">
 
 # 3.2 SN1PER
