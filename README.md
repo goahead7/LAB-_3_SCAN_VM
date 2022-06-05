@@ -100,19 +100,28 @@ nmap —script=qscan.nse
 ![image](https://user-images.githubusercontent.com/62139377/172030026-2e896b7b-7936-48c7-b911-8ffdb8a602f6.png)  
 
 # 2.4 OPENVAS 
-?
+<img width="916" alt="Снимок экрана 2022-06-05 в 10 39 21" src="https://user-images.githubusercontent.com/63841835/172030139-d4728b89-ec51-47d0-834a-89356f33725b.png">
 # 2.5 NEXPOSE
 -
 
 # 3.1 NMAP
+<img width="533" alt="Снимок экрана 2022-06-05 в 12 30 16" src="https://user-images.githubusercontent.com/63841835/172032414-3f47e4e8-ac4c-4d4b-90dc-e3e5d297ef65.png">
+<img width="508" alt="Снимок экрана 2022-06-05 в 12 30 54" src="https://user-images.githubusercontent.com/63841835/172032432-100cb8fa-aa77-42f8-8f63-1abc6c379248.png">
+<img width="500" alt="Снимок экрана 2022-06-05 в 12 31 41" src="https://user-images.githubusercontent.com/63841835/172032451-e7cfe803-5b82-43f3-8d81-fb7ad63e9bdd.png">
 
 # 3.2 SN1PER
-<img width="759" alt="Снимок экрана 2022-06-05 в 11 53 20" src="https://user-images.githubusercontent.com/63841835/172031557-27d12831-847a-4148-9efb-26fd18deb9d8.png">
-<img width="757" alt="Снимок экрана 2022-06-05 в 11 54 10" src="https://user-images.githubusercontent.com/63841835/172031585-99d5419f-f84c-42d7-b53e-e1d72aa100db.png">
+<img width="575" alt="Снимок экрана 2022-06-05 в 12 16 30" src="https://user-images.githubusercontent.com/63841835/172032108-3855964f-b00b-494a-a2f0-819b847c5003.png">
+ <img width="752" alt="Снимок экрана 2022-06-05 в 12 17 50" src="https://user-images.githubusercontent.com/63841835/172032145-37aa72c5-3e85-46da-a2e4-1565f04452db.png">
+<img width="761" alt="Снимок экрана 2022-06-05 в 12 18 27" src="https://user-images.githubusercontent.com/63841835/172032154-d1b0b94e-87bf-452f-ae2e-05370db8cd0c.png">
+<img width="624" alt="Снимок экрана 2022-06-05 в 12 22 16" src="https://user-images.githubusercontent.com/63841835/172032233-9c11a9dc-5674-4ef5-b4eb-5bbb26a04d18.png">
 
 # 3.3 NESSUS
-# 3.4 OPENVAS
-# 3.5 NEXPOSE
+<img width="766" alt="Снимок экрана 2022-06-05 в 12 24 13" src="https://user-images.githubusercontent.com/63841835/172032278-b8f65619-bee1-42c4-b4b2-a54878535687.png">
 
+# 3.4 OPENVAS
+<img width="908" alt="Снимок экрана 2022-06-05 в 12 24 44" src="https://user-images.githubusercontent.com/63841835/172032301-7c8c1eb7-59f3-4024-896f-b3d101878d78.png">
+
+# 3.5 NEXPOSE
+-
 
 
