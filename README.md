@@ -58,6 +58,11 @@ qscan.nse: Повторно исследует открытые и/или зак
 ![image](https://user-images.githubusercontent.com/62139377/172029960-773a4422-71a2-4b2b-ae8c-c601f3f5b7be.png)
 ![image](https://user-images.githubusercontent.com/62139377/172029962-f77535cd-34f9-4a54-9bbf-311acaf2306b.png)  
 
+# 1.4 OpenVas 
+<img width="916" alt="Снимок экрана 2022-06-05 в 10 39 21" src="https://user-images.githubusercontent.com/63841835/172030139-d4728b89-ec51-47d0-834a-89356f33725b.png">
+
+# 1.5 Nexpose
+
 # 2.1 NMAP  
 nmap -sS -A -sC -sV -vv  
 
