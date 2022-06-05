@@ -53,10 +53,10 @@ qscan.nse: Повторно исследует открытые и/или зак
 ![2022-05-06 (63)](https://user-images.githubusercontent.com/56391887/171975519-fce8024b-6e2d-4ffe-bca1-b767f968a9bc.png)  
 
 # 1.3 NESSUS  
-![image](https://user-images.githubusercontent.com/62139377/171993935-349f6c1b-0e93-437d-8112-83b43324298a.png)
-![image](https://user-images.githubusercontent.com/62139377/171993947-c886e1d8-2c7d-4ae9-9a9c-25d51073d630.png)
-![image](https://user-images.githubusercontent.com/62139377/171993958-9fcdcc95-c0fa-43e9-888e-586b909ca6e1.png)
-![image](https://user-images.githubusercontent.com/62139377/171993968-9d41b980-2933-4247-896b-8bb29d511a4d.png)
+![image](https://user-images.githubusercontent.com/62139377/172029940-1b5011f3-7188-4f7d-a661-14cc44bd051a.png)
+![image](https://user-images.githubusercontent.com/62139377/172029954-2117b4f7-cf8c-4196-b385-94e266091bda.png)
+![image](https://user-images.githubusercontent.com/62139377/172029960-773a4422-71a2-4b2b-ae8c-c601f3f5b7be.png)
+![image](https://user-images.githubusercontent.com/62139377/172029962-f77535cd-34f9-4a54-9bbf-311acaf2306b.png)  
 
 # 2.1 NMAP  
 nmap -sS -A -sC -sV -vv  
@@ -84,10 +84,10 @@ nmap —script=qscan.nse
 ![2022-05-14 (19)](https://user-images.githubusercontent.com/56391887/171976327-cece835a-1897-41c6-8276-5f326271224c.png)
 
 # 2.3 NESSUS
-![image](https://user-images.githubusercontent.com/62139377/171993878-de4de894-ec94-43a9-98ba-cef9a2308e5c.png)
-![image](https://user-images.githubusercontent.com/62139377/171993889-62116a90-bddc-4717-b705-abc98df7de96.png)
-![image](https://user-images.githubusercontent.com/62139377/171993895-db22408f-4c57-4ed6-a8f2-e44fdd24469e.png)
-![image](https://user-images.githubusercontent.com/62139377/171993905-14ac046c-90f9-4e3f-8634-ec021ac6842a.png)
+![image](https://user-images.githubusercontent.com/62139377/172029995-63061ffd-5d24-4bfa-98a7-d3af4cab84b4.png)
+![image](https://user-images.githubusercontent.com/62139377/172030001-b875b805-7fb1-4e50-bb4c-b989c3fee862.png)
+![image](https://user-images.githubusercontent.com/62139377/172030010-c4f82c3b-a711-4e78-bdb8-840bf61a93b0.png)
+![image](https://user-images.githubusercontent.com/62139377/172030026-2e896b7b-7936-48c7-b911-8ffdb8a602f6.png)  
 
 
 
