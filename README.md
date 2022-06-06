@@ -100,7 +100,10 @@ nmap —script=qscan.nse
 ![image](https://user-images.githubusercontent.com/62139377/172030026-2e896b7b-7936-48c7-b911-8ffdb8a602f6.png)  
 
 # 2.4 OPENVAS 
-<img width="916" alt="Снимок экрана 2022-06-05 в 10 39 21" src="https://user-images.githubusercontent.com/63841835/172030139-d4728b89-ec51-47d0-834a-89356f33725b.png">
+![image](https://user-images.githubusercontent.com/56391887/172081918-d2a0eba5-1af8-4f46-a322-5fc52f07bdae.png)
+![image](https://user-images.githubusercontent.com/56391887/172081941-cbab06d5-bd1b-42f6-b49f-196baa4b86e8.png)
+![image](https://user-images.githubusercontent.com/56391887/172081957-31281e5c-12ee-4e8e-aca9-5672b812fc4d.png)
+
 # 2.5 NEXPOSE
 -
 
